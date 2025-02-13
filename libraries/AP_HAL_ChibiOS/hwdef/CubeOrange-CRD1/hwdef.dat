@@ -1,0 +1,3 @@
+# hw definition file for processing by chibios_hwdef.py
+#define AP_CUSTOM_FIRMWARE_STRING "CRD1"
+include ../CubeOrange/hwdef.dat
